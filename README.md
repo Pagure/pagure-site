@@ -1,3 +1,3 @@
 # pagure-site
 
-Website for pagure
+This project contains the sources for the pagure website.
